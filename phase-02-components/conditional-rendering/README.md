@@ -2,7 +2,7 @@
 
 ## 📋 Introducción
 
-**Conditional Rendering** es el proceso mediante el cual React muestra u oculta componentes dependiendo de condiciones lógicas.
+El **renderizado condicional** es una técnica que permite a React mostrar u ocultar componentes según una lógica específica. Esta capacidad es clave para crear interfaces dinámicas y adaptativas.
 
 ## 🧩 Ejemplo Básico: Mensaje.jsx
 

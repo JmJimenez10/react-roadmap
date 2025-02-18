@@ -1,7 +1,9 @@
 # 🚀 01. CLI Tools: Vite
 
 ## 📋 Introducción
-Vite es una herramienta moderna para crear proyectos frontend, especialmente rápida para proyectos con React. Proporciona un servidor de desarrollo ultrarrápido y una construcción optimizada.
+Vite es una herramienta moderna y eficiente para crear proyectos frontend, especialmente recomendada para aplicaciones con React. Su principal ventaja es la rapidez, gracias a su servidor de desarrollo ultrarrápido y un sistema de construcción optimizado que mejora los tiempos de carga y actualización.
+
+Con Vite, puedes iniciar un proyecto React en cuestión de segundos, disfrutando de recargas en caliente (hot module replacement) instantáneas, lo que hace que el proceso de desarrollo sea fluido y eficiente.
 
 ## 📦 Instalación de Vite con React
 
@@ -20,6 +22,7 @@ Vite es una herramienta moderna para crear proyectos frontend, especialmente rá
 `npm run dev`
 
 ## 📁 Estructura básica de archivos
+Al crear el proyecto, se genera una estructura de carpetas como esta:
 ```
 nombre-proyecto/
 ├── public/
@@ -28,3 +31,10 @@ nombre-proyecto/
     ├── index.css
     └── main.jsx
 ```
+- **public/:** Contiene recursos estáticos.
+- **src/:** Carpeta principal del código de tu aplicación.
+    - `App.jsx`: Componente principal.
+    - `index.css`: Archivo de estilos.
+    - `main.jsx`: Punto de entrada de la aplicación.    
+  
+Esta organización es simple y fácil de entender, lo que te permite comenzar a programar rápidamente.
